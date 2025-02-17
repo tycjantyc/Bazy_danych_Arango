@@ -1,0 +1,13 @@
+geopandas
+pandas
+polars
+numpy
+python-arango
+tqdm
+shapely
+scipy
+networkx
+
+
+
+
